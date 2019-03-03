@@ -1,0 +1,11 @@
+C:\Users\Phil\Documents\GitHub\gt-platform-challenge\PlatformChallenge\bin\Debug\netcoreapp2.1\PlatformChallenge.deps.json
+C:\Users\Phil\Documents\GitHub\gt-platform-challenge\PlatformChallenge\bin\Debug\netcoreapp2.1\PlatformChallenge.runtimeconfig.json
+C:\Users\Phil\Documents\GitHub\gt-platform-challenge\PlatformChallenge\bin\Debug\netcoreapp2.1\PlatformChallenge.runtimeconfig.dev.json
+C:\Users\Phil\Documents\GitHub\gt-platform-challenge\PlatformChallenge\bin\Debug\netcoreapp2.1\PlatformChallenge.dll
+C:\Users\Phil\Documents\GitHub\gt-platform-challenge\PlatformChallenge\bin\Debug\netcoreapp2.1\PlatformChallenge.pdb
+C:\Users\Phil\Documents\GitHub\gt-platform-challenge\PlatformChallenge\obj\Debug\netcoreapp2.1\PlatformChallenge.csprojAssemblyReference.cache
+C:\Users\Phil\Documents\GitHub\gt-platform-challenge\PlatformChallenge\obj\Debug\netcoreapp2.1\PlatformChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Phil\Documents\GitHub\gt-platform-challenge\PlatformChallenge\obj\Debug\netcoreapp2.1\PlatformChallenge.AssemblyInfoInputs.cache
+C:\Users\Phil\Documents\GitHub\gt-platform-challenge\PlatformChallenge\obj\Debug\netcoreapp2.1\PlatformChallenge.AssemblyInfo.cs
+C:\Users\Phil\Documents\GitHub\gt-platform-challenge\PlatformChallenge\obj\Debug\netcoreapp2.1\PlatformChallenge.dll
+C:\Users\Phil\Documents\GitHub\gt-platform-challenge\PlatformChallenge\obj\Debug\netcoreapp2.1\PlatformChallenge.pdb
